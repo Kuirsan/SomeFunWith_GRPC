@@ -1,0 +1,16 @@
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.exe
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\obj\Debug\netcoreapp3.0\GrpcConsoleClient.AssemblyInfoInputs.cache
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\obj\Debug\netcoreapp3.0\GrpcConsoleClient.AssemblyInfo.cs
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\obj\Debug\netcoreapp3.0\GrpcConsoleClient.csproj.CopyComplete
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\Grpc.Core.Api.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\Grpc.Net.Client.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\Grpc.Net.Common.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.deps.json
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.runtimeconfig.json
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.runtimeconfig.dev.json
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\bin\Debug\netcoreapp3.0\GrpcConsoleClient.pdb
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\obj\Debug\netcoreapp3.0\GrpcConsoleClient.dll
+C:\Users\ksmer\source\repos\GrpcConsoleClient\GrpcConsoleClient\obj\Debug\netcoreapp3.0\GrpcConsoleClient.pdb
